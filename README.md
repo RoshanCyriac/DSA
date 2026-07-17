@@ -130,17 +130,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/RoshanCyriac/DSA/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/RoshanCyriac/DSA/tree/master/0226-invert-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/RoshanCyriac/DSA/tree/master/0654-maximum-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/RoshanCyriac/DSA/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/RoshanCyriac/DSA/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/RoshanCyriac/DSA/tree/master/0226-invert-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/RoshanCyriac/DSA/tree/master/0968-binary-tree-cameras) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/RoshanCyriac/DSA/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/RoshanCyriac/DSA/tree/master/0226-invert-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/RoshanCyriac/DSA/tree/master/0654-maximum-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/RoshanCyriac/DSA/tree/master/0968-binary-tree-cameras) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/RoshanCyriac/DSA/tree/master/0654-maximum-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0968-binary-tree-cameras](https://github.com/RoshanCyriac/DSA/tree/master/0968-binary-tree-cameras) |
 <!---LeetCode Topics End-->
