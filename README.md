@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/RoshanCyriac/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/RoshanCyriac/DSA/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/RoshanCyriac/DSA/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/RoshanCyriac/DSA/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/RoshanCyriac/DSA/tree/master/0459-repeated-substring-pattern) |
@@ -160,12 +161,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/RoshanCyriac/DSA/tree/master/0392-is-subsequence) |
 | [0968-binary-tree-cameras](https://github.com/RoshanCyriac/DSA/tree/master/0968-binary-tree-cameras) |
 ## Two Pointers
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/RoshanCyriac/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/RoshanCyriac/DSA/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/RoshanCyriac/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/RoshanCyriac/DSA/tree/master/0443-string-compression) |
 ## Greedy
 |  |
