@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/RoshanCyriac/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/RoshanCyriac/DSA/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/RoshanCyriac/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/RoshanCyriac/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/RoshanCyriac/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/RoshanCyriac/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [3634-minimum-removals-to-balance-array](https://github.com/RoshanCyriac/DSA/tree/master/3634-minimum-removals-to-balance-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RoshanCyriac/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/RoshanCyriac/DSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanCyriac/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/RoshanCyriac/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/RoshanCyriac/DSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanCyriac/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/RoshanCyriac/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3634-minimum-removals-to-balance-array](https://github.com/RoshanCyriac/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Counting Sort
 |  |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/RoshanCyriac/DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/RoshanCyriac/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/RoshanCyriac/DSA/tree/master/0443-string-compression) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/RoshanCyriac/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Greedy
 |  |
 | ------- |
