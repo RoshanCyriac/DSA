@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RoshanCyriac/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/RoshanCyriac/DSA/tree/master/0485-max-consecutive-ones) |
 | [0636-exclusive-time-of-functions](https://github.com/RoshanCyriac/DSA/tree/master/0636-exclusive-time-of-functions) |
+| [0643-maximum-average-subarray-i](https://github.com/RoshanCyriac/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/RoshanCyriac/DSA/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/RoshanCyriac/DSA/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/RoshanCyriac/DSA/tree/master/0739-daily-temperatures) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/RoshanCyriac/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/RoshanCyriac/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Tree
 |  |
