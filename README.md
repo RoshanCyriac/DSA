@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/RoshanCyriac/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/RoshanCyriac/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2073-time-needed-to-buy-tickets](https://github.com/RoshanCyriac/DSA/tree/master/2073-time-needed-to-buy-tickets) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/RoshanCyriac/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3634-minimum-removals-to-balance-array](https://github.com/RoshanCyriac/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/RoshanCyriac/DSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanCyriac/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/RoshanCyriac/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/RoshanCyriac/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
