@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/RoshanCyriac/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/RoshanCyriac/DSA/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/RoshanCyriac/DSA/tree/master/0654-maximum-binary-tree) |
+| [0735-asteroid-collision](https://github.com/RoshanCyriac/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/RoshanCyriac/DSA/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/RoshanCyriac/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/RoshanCyriac/DSA/tree/master/1046-last-stone-weight) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/RoshanCyriac/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0636-exclusive-time-of-functions](https://github.com/RoshanCyriac/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0654-maximum-binary-tree](https://github.com/RoshanCyriac/DSA/tree/master/0654-maximum-binary-tree) |
+| [0735-asteroid-collision](https://github.com/RoshanCyriac/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/RoshanCyriac/DSA/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/RoshanCyriac/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/RoshanCyriac/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/RoshanCyriac/DSA/tree/master/0412-fizz-buzz) |
+| [0735-asteroid-collision](https://github.com/RoshanCyriac/DSA/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/RoshanCyriac/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/RoshanCyriac/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/RoshanCyriac/DSA/tree/master/2073-time-needed-to-buy-tickets) |
