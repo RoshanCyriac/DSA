@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/RoshanCyriac/DSA/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/RoshanCyriac/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/RoshanCyriac/DSA/tree/master/1046-last-stone-weight) |
+| [1207-unique-number-of-occurrences](https://github.com/RoshanCyriac/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/RoshanCyriac/DSA/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanCyriac/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RoshanCyriac/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/RoshanCyriac/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RoshanCyriac/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/RoshanCyriac/DSA/tree/master/0645-set-mismatch) |
+| [1207-unique-number-of-occurrences](https://github.com/RoshanCyriac/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanCyriac/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/RoshanCyriac/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/RoshanCyriac/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
