@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/RoshanCyriac/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RoshanCyriac/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/RoshanCyriac/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/RoshanCyriac/DSA/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/RoshanCyriac/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0654-maximum-binary-tree](https://github.com/RoshanCyriac/DSA/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/RoshanCyriac/DSA/tree/master/0735-asteroid-collision) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/RoshanCyriac/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/RoshanCyriac/DSA/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/RoshanCyriac/DSA/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/RoshanCyriac/DSA/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/RoshanCyriac/DSA/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/RoshanCyriac/DSA/tree/master/0459-repeated-substring-pattern) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/RoshanCyriac/DSA/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/RoshanCyriac/DSA/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
 | ------- |
