@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/RoshanCyriac/DSA/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/RoshanCyriac/DSA/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/RoshanCyriac/DSA/tree/master/0739-daily-temperatures) |
+| [1004-max-consecutive-ones-iii](https://github.com/RoshanCyriac/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/RoshanCyriac/DSA/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/RoshanCyriac/DSA/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanCyriac/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/RoshanCyriac/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/RoshanCyriac/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RoshanCyriac/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3634-minimum-removals-to-balance-array](https://github.com/RoshanCyriac/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Tree
@@ -189,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/RoshanCyriac/DSA/tree/master/0334-increasing-triplet-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/RoshanCyriac/DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/RoshanCyriac/DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
