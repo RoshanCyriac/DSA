@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/RoshanCyriac/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/RoshanCyriac/DSA/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/RoshanCyriac/DSA/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/RoshanCyriac/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/RoshanCyriac/DSA/tree/master/2073-time-needed-to-buy-tickets) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/RoshanCyriac/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/RoshanCyriac/DSA/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/RoshanCyriac/DSA/tree/master/0520-detect-capital) |
+| [0649-dota2-senate](https://github.com/RoshanCyriac/DSA/tree/master/0649-dota2-senate) |
 | [0686-repeated-string-match](https://github.com/RoshanCyriac/DSA/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/RoshanCyriac/DSA/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/RoshanCyriac/DSA/tree/master/0831-masking-personal-information) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/RoshanCyriac/DSA/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/RoshanCyriac/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0649-dota2-senate](https://github.com/RoshanCyriac/DSA/tree/master/0649-dota2-senate) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
