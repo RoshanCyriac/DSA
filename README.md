@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/RoshanCyriac/DSA/tree/master/0654-maximum-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/RoshanCyriac/DSA/tree/master/0872-leaf-similar-trees) |
 | [0968-binary-tree-cameras](https://github.com/RoshanCyriac/DSA/tree/master/0968-binary-tree-cameras) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/RoshanCyriac/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/RoshanCyriac/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/RoshanCyriac/DSA/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/RoshanCyriac/DSA/tree/master/0872-leaf-similar-trees) |
 | [0968-binary-tree-cameras](https://github.com/RoshanCyriac/DSA/tree/master/0968-binary-tree-cameras) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/RoshanCyriac/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/RoshanCyriac/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/RoshanCyriac/DSA/tree/master/0654-maximum-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/RoshanCyriac/DSA/tree/master/0872-leaf-similar-trees) |
 | [0968-binary-tree-cameras](https://github.com/RoshanCyriac/DSA/tree/master/0968-binary-tree-cameras) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/RoshanCyriac/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/RoshanCyriac/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/RoshanCyriac/DSA/tree/master/0392-is-subsequence) |
 | [0968-binary-tree-cameras](https://github.com/RoshanCyriac/DSA/tree/master/0968-binary-tree-cameras) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/RoshanCyriac/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RoshanCyriac/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
 |  |
@@ -256,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/RoshanCyriac/DSA/tree/master/0933-number-of-recent-calls) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/RoshanCyriac/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
