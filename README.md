@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/RoshanCyriac/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/RoshanCyriac/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/RoshanCyriac/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2336-smallest-number-in-infinite-set](https://github.com/RoshanCyriac/DSA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/RoshanCyriac/DSA/tree/master/2352-equal-row-and-column-pairs) |
 ## Bit Manipulation
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/RoshanCyriac/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/RoshanCyriac/DSA/tree/master/0933-number-of-recent-calls) |
+| [2336-smallest-number-in-infinite-set](https://github.com/RoshanCyriac/DSA/tree/master/2336-smallest-number-in-infinite-set) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RoshanCyriac/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/RoshanCyriac/DSA/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/RoshanCyriac/DSA/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [2336-smallest-number-in-infinite-set](https://github.com/RoshanCyriac/DSA/tree/master/2336-smallest-number-in-infinite-set) |
 ## String
 |  |
 | ------- |
@@ -286,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RoshanCyriac/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/RoshanCyriac/DSA/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
