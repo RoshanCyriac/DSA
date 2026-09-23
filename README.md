@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/RoshanCyriac/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2073-time-needed-to-buy-tickets](https://github.com/RoshanCyriac/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/RoshanCyriac/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/RoshanCyriac/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/RoshanCyriac/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/RoshanCyriac/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3634-minimum-removals-to-balance-array](https://github.com/RoshanCyriac/DSA/tree/master/3634-minimum-removals-to-balance-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanCyriac/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/RoshanCyriac/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/RoshanCyriac/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/RoshanCyriac/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3634-minimum-removals-to-balance-array](https://github.com/RoshanCyriac/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Counting Sort
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/RoshanCyriac/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RoshanCyriac/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RoshanCyriac/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/RoshanCyriac/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/RoshanCyriac/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Greedy
 |  |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/RoshanCyriac/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/RoshanCyriac/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/RoshanCyriac/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Prefix Sum
 |  |
 | ------- |
